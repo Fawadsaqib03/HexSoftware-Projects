@@ -15,7 +15,7 @@ It was developed as part of my learning journey to strengthen Python skills and 
 
 ## 🛠️ Technology Used
 - Python 3 (Jupyter Notebook)  
-- Basic Python libraries (pandas, numpy, matplotlib – if used)  
+- Basic Python libraries (pandas, numpy, Seaborn, matplotlib)  
 - JupyterLab / Anaconda Environment  
 
 ---
