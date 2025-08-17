@@ -37,6 +37,7 @@ This project is ideal for:
 
 ## 📧 Author
 **Fawad Saqib**  
+
 💬 Reach out via GitHub for feedback or collaboration!  
 
 ---
