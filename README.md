@@ -1,37 +1,49 @@
 # HexSoftware-Projects
 It contains projects completed during my internship at Hex Software.
-# 📊 Data Science Internship Project – Task 1  
-This repository contains my **first task** completed during the **Data Science Internship at GEX Software**.  
-It was developed as part of my learning journey to strengthen Python skills and apply fundamental data science concepts.  
-
 ---
 
-## 📌 What’s Included
-- Python notebook with basic exploratory coding  
-- Hands-on practice with beginner-friendly code structure  
-- Simple implementation of logic to build a strong foundation for upcoming tasks  
+## ✅ Task 1 – Beginner Python Practice  
+This was my **first task** in the internship, focused on exploring Python basics and applying them to simple data operations.  
 
----
+### 🔹 What I Did
+- Practiced coding logic in Python  
+- Implemented beginner-friendly problem-solving techniques  
+- Built a strong foundation for upcoming tasks  
 
-## 🛠️ Technology Used
+### 🛠️ Technology Used
 - Python 3 (Jupyter Notebook)  
-- Basic Python libraries (pandas, numpy, Seaborn, matplotlib)  
-- JupyterLab / Anaconda Environment  
+- pandas, numpy, matplotlib, seaborn  
+
+---
+
+## ✅ Task 2 – House Price Prediction using Linear Regression  
+This was my **second task**, where I worked on a **Machine Learning project** involving house price prediction.  
+
+### 🔹 What I Did
+- Explored and cleaned the dataset (removed duplicates, irrelevant attributes)  
+- Applied normalization techniques for consistency  
+- Split dataset into training and testing sets  
+- Built and evaluated a **Linear Regression Model**  
+- Visualized results to interpret predictive performance and outcomes  
+
+### 🛠️ Technology Used
+- Python 3 (Jupyter Notebook)  
+- pandas, numpy, scikit-learn, matplotlib, seaborn  
 
 ---
 
 ## 🎓 Educational Purpose
-This project is ideal for:
-- Beginners starting with Python for Data Science  
-- Students practicing logic-building with small tasks  
-- Early-stage data analysis and problem-solving exercises  
+These projects are ideal for:
+- Students learning **Python for Data Science**  
+- Beginners practicing **data preprocessing and visualization**  
+- Understanding **machine learning workflows** with real datasets  
 
 ---
 
 ## 📁 How to Run
 1. Clone or download this repository.  
-2. Open the `.ipynb` file in **Jupyter Notebook** or **JupyterLab**.  
-3. Run the cells step by step to view the outputs.  
+2. Open the `.ipynb` files in **Jupyter Notebook** or **JupyterLab**.  
+3. Run the cells step by step to see results and outputs.  
 
 ---
 
@@ -43,4 +55,4 @@ This project is ideal for:
 ---
 
 ## 📝 License
-This project is intended for **educational and non-commercial use only**.
+These projects are intended for **educational and non-commercial use only**.
